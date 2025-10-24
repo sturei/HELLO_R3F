@@ -35,6 +35,21 @@ npm install @react-three/drei
 
 see https://drei.docs.pmnd.rs/getting-started/introduction
 
+tailwind and daisyui
+see https://daisyui.com/docs/install/vite/?lang=en
+npm install tailwindcss@latest @tailwindcss/vite@latest daisyui@latest
+
+tailwind css intellisense 
+see https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+do it from the left panel in VSCode, not how they say
+
+and replace the contents of index.css with the 2 lines from daisy, not "style.css" like they say in the daisy intro
+
+
+
+
+
+
 
 
 
